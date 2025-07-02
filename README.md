@@ -71,4 +71,4 @@ The built JAR will be in the `target` directory.
 
 ## License
 
-This plugin is released under the MIT License. 
+This plugin is released under the Apache-2.0 license. 
