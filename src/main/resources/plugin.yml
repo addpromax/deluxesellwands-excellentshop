@@ -1,0 +1,7 @@
+name: ExcellentShopDSWBridge
+version: '${project.version}'
+main: com.magicbili.excellentshopbridge.ExcellentShopDSWBridge
+api-version: '1.13'
+authors: [MagicBili]
+description: Bridge plugin to integrate ExcellentShop with DeluxeSellwands
+depend: [ExcellentShop, DeluxeSellwands, Vault, nightcore] 
